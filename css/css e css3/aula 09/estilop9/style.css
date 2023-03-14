@@ -1,0 +1,44 @@
+*{
+
+  margin: 0;
+  padding: 0;
+
+}
+
+html,body{
+	height: 100%;
+}
+
+/*
+.box{
+	width: 100px;
+	height: 100px;
+	background: blue;
+	display: inline-block;
+	margin-left: 40px;
+	margin-bottom:30 ;
+	margin-top: 30;
+	margin-right: 10;
+	margin: 20;
+
+}
+.box1{
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	background: blue;
+}
+ 
+ */
+
+.box{
+	box-sizing: border-box;
+	width: 100px;
+	height: 100px;
+	background: blue;
+	padding-left: 30px;
+	padding-top: 30px ;
+	padding-right:30px ;
+	padding-bottom:30px ;
+
+}

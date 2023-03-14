@@ -1,0 +1,26 @@
+*{
+   margin: 0;
+   padding: 0;
+
+}
+html.body{
+
+	height: 100%;
+}
+
+div.background{
+   background-image: url(../img.jpg);
+   background-size:100% 100% ;
+   background-size: cover;
+   background-size:contain ;
+   background-position:center ;
+   background-position: left top;
+   background-position: center;
+   background-repeat:no-repeat ;
+   
+   /*
+   background-position: center;
+   background-size:contain ;
+
+  esses dois juntos para deixar a imagen nno centro do container 
+  */

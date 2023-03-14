@@ -1,0 +1,226 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 62.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/welli/Desktop/css e css3/aula 01/index.html",
+		"/C/Users/welli/Desktop/curso web/aula 1/index.html",
+		"/C/Users/welli/Desktop/curso web/aula 15/index.html",
+		"/C/Users/welli/Desktop/curso web/aula 14/index.html",
+		"/C/Users/welli/Desktop/curso web/aula 13/index.html",
+		"/C/Users/welli/Desktop/curso web/treiamento/index.html",
+		"/C/Users/welli/Desktop/curso web/aula 12/index.html",
+		"/C/Users/welli/Desktop/curso web/aula 11/index.html",
+		"/C/Users/welli/Desktop/curso web/aula 10/index.html",
+		"/C/Program Files (x86)/Microsoft/Edge/Application/msedge.exe",
+		"/C/Users/welli/Desktop/curso web/aula 09/index.html",
+		"/C/Users/welli/Desktop/curso web/aula 03/index.html",
+		"/C/Users/welli/Desktop/curso web/aula 04/index.html",
+		"/C/Users/welli/Desktop/curso web/aula 05/index.html",
+		"/C/Users/welli/Desktop/curso web/aula 8/index.html",
+		"/C/Users/welli/Desktop/curso web/aula07/index.html",
+		"/C/Users/welli/Desktop/curso web/aula 06/index.html",
+		"/C/Users/welli/Desktop/curso web/aula 1/71330d0140cc53da633f243269c3e4f4.jpg",
+		"/C/Users/welli/Desktop/curso web/aula 1/aula 03/aula 04/20191129_082829.jpg",
+		"/C/Users/welli/Desktop/curso web/aula 1/texte/aula texte/index.html",
+		"/C/Users/welli/Desktop/curso web/aula 1/aula 03/aula 04/aula 05/index.html",
+		"/C/Users/welli/Desktop/curso web/aula 1/aula 03/index.html",
+		"/C/Users/welli/Desktop/curso web/aula 1/aula 03/aulatexte/index.texte",
+		"/C/Users/welli/Desktop/curso web/aula 1/texte/index.texte",
+		"/C/Users/welli/Desktop/curso web/index.texte",
+		"/C/Users/welli/Desktop/curso web/aula 1/aula 03"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 741.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
